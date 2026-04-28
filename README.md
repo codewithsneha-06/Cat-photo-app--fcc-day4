@@ -8,5 +8,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 4: complete cat photo app
 - Day 5: Maggi Recipe Page
 - Day 6: HTML fundamentals
+- Day 7: Build a Bookstore page
 
 Learning HTML with freeCodeCamp 💚
