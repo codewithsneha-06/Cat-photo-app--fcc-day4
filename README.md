@@ -9,5 +9,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 5: Maggi Recipe Page
 - Day 6: HTML fundamentals
 - Day 7: Build a Bookstore page
+- Day 8: Understanding how HTML affects SEO
 
 Learning HTML with freeCodeCamp 💚
