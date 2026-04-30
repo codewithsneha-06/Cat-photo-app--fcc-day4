@@ -10,5 +10,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 6: HTML fundamentals
 - Day 7: Build a Bookstore page
 - Day 8: Understanding how HTML affects SEO
+- Day 9: Build a travel agency page
 
 Learning HTML with freeCodeCamp 💚
