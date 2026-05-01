@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="HTML5 Video and Audio Elements demo with controls, captions, and multiple source formats for cross-browser compatibility.">
+    <title>HTML5 Video & Audio Elements - Day 10</title>
+</head>
+<body>
+    <header>
+        <h1>HTML5 Media Elements Demo</h1>
+        <p>Exploring native video and audio tags</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Video Element Example</h2>
+            <video width="640" height="360" controls poster="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg">
+                <source src="https://cdn.freecodecamp.org/curriculum/labs/sample-video.mp4" type="video/mp4">
+                <source src="https://cdn.freecodecamp.org/curriculum/labs/sample-video.webm" type="video/webm">
+                <track src="captions.vtt" kind="subtitles" srclang="en" label="English">
+                Your browser does not support the video tag. Please upgrade your browser.
+            </video>
+            <p><strong>Attributes used:</strong> controls, poster, multiple sources, track for captions</p>
+        </section>
+
+        <section>
+            <h2>Audio Element Example</h2>
+            <audio controls loop>
+                <source src="https://cdn.freecodecamp.org/curriculum/labs/sample-audio.mp3" type="audio/mpeg">
+                <source src="https://cdn.freecodecamp.org/curriculum/labs/sample-audio.ogg" type="audio/ogg">
+                Your browser does not support the audio element.
+            </audio>
+            <p><strong>Attributes used:</strong> controls, loop, multiple source formats</p>
+        </section>
+
+        <section>
+            <h2>Key Attributes Learned</h2>
+            <ul>
+                <li><code>controls</code> - Displays play/pause/volume controls</li>
+                <li><code>autoplay</code> - Starts media automatically - use carefully!</li>
+                <li><code>loop</code> - Repeats media when finished</li>
+                <li><code>muted</code> - Starts with audio muted</li>
+                <li><code>poster</code> - Thumbnail image before video plays</li>
+                <li><code>preload</code> - Hints how much to buffer: none/metadata/auto</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Media Demo | Day 10 of #100DaysOfCode | freeCodeCamp</p>
+    </footer>
+</body>
+                  </html>
