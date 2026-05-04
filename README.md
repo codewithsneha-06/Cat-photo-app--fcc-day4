@@ -14,5 +14,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 10: Working with audio and video elements
 - Day 11: Build an HTML music player
 - Day 12: Build an HTML video player
-- Day 13: Build an HTML Audio and Video player
+- Day 13: Build an HTML Audio and Video player.
+  
 Learning HTML with freeCodeCamp 💚
