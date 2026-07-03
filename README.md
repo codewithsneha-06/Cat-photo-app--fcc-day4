@@ -26,5 +26,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 22: Build Quincy's Job Tips Page
 - Day 23: Working with specialized semantic elements
 - Day 24: Build a cat blog page
+- Day 25: Build an event hub
 - 
 Learning HTML with freeCodeCamp 💚
